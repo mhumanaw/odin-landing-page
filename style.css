@@ -96,3 +96,23 @@ nav{
     height: 150px;
     margin-bottom: 10px;
 }
+
+.container-quote{
+    padding: 0 15%;
+    background-color: #E5E7EB;
+}
+
+.quote{
+    padding: 100px 8%;
+}
+
+.quote > h1{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote > h2 {
+    text-align: right;
+}
